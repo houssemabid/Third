@@ -1,0 +1,35 @@
+ul {
+  
+    list-style-type:"none" ;     
+}
+li{
+    font-size:200%;
+color: chartreuse;
+    list-style-type:"none" ;
+background-color: black;
+
+display: inline;
+padding : 2px;;
+
+
+}
+.icone  {
+    width:8%;
+    height:8%;
+
+
+}
+p{
+    text-align: center;
+    border: solid 2px;
+width: 50%;
+height: 50%;
+
+}
+.phone{
+    width: 25%;
+    height:25%;
+   
+
+
+}
