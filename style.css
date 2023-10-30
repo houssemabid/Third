@@ -1,13 +1,16 @@
 ul {
-  
+
+
+
     list-style-type:"none" ;     
 }
-li{
-    font-size:200%;
-color: chartreuse;
-    list-style-type:"none" ;
-background-color: black;
 
+ul li{
+    color: blanchedalmond;
+    font-size:200%;
+    list-style-type:"none" ;
+background-color: blue;
+color: rgb(255, 255, 255);
 display: inline;
 padding : 2px;;
 
@@ -19,15 +22,26 @@ padding : 2px;;
 
 
 }
-p{
+ p{
     text-align: center;
     border: solid 2px;
 width: 50%;
 height: 50%;
+background-color: rgb(243, 197, 182);
+padding-top: 10px;
+padding-right: 10px;
+padding-bottom: 10px;
+padding-left: 10px;
 
 }
-.phone{
-    width: 25%;
-    height:25%;
+.block2 >.phone{
+    width:50%;
+    height:50%;
    
+
+   
+}
+.container{
+
+    display: flex;
 }
